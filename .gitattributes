@@ -4,3 +4,5 @@
 # Most files in zOS.deploytoolkit.HFS use ibm-1047
 *.sh  working-tree-encoding=ibm-1047 git-encoding=ibm-1047
 
+encoding=ibm-1047
+
